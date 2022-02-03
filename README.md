@@ -82,7 +82,8 @@
 1. ファームウェアをダウンロードしてください。
 
     こちらのリンクからzipファイルをダウンロード
-    https://github.com/panasonic-corporation/doingio-watering-unit/archive/refs/heads/master.zip
+    
+    https://github.com/panasonic-corporation/doingio-watering-unit/archive/refs/heads/main.zip
 
 1. プロジェクトを開いてください。
 
