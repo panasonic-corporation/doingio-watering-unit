@@ -34,6 +34,11 @@
 
 <a href="https://www.switch-science.com/catalog/8253/"><img width="300px" src="https://d2air1d4eqhwg2.cloudfront.net/images/8253/500x500/709abed3-778e-4ced-ae46-4d922c2767b8.png" /><br>スイッチサイエンスでキットを購入する</a>
 
+※ ハウジングは3Dプリンターで出力してください。
+データはこちらです
+
+https://github.com/panasonic-corporation/doingio-watering-unit/blob/main/data/watering_unit_housing.stl
+
 
 ### 2 配線 / 組み立て
 
