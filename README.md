@@ -32,17 +32,12 @@
 
 - 必要なパーツを用意
 
-<img width="500px" src="images/all_parts.jpg">
+<a href="https://www.switch-science.com/catalog/8253/"><img width="300px" src="https://d2air1d4eqhwg2.cloudfront.net/images/8253/500x500/709abed3-778e-4ced-ae46-4d922c2767b8.png" /><br>スイッチサイエンスでキットを購入する</a>
 
-|     | 部品名     | 個数 |  販売リンク（例）  | 備考 |
-|:----:|:---------|:----|:------------------------|:----|
-|  1  | M5Stack用 水分測定センサ付き給水ポンプユニット | 1 |[スイッチサイエンス](https://www.switch-science.com/catalog/6913/) | |
-|  2  | ATOM Matrix | 1 |[スイッチサイエンス](https://www.switch-science.com/catalog/6260/) | |
-|  3  | HY2.0 ケーブル (Groveケーブル) | 1 | | ポンプユニットに付属 |
-|  4  | USB Type-Cケーブル | 1 | [スイッチサイエンス](https://www.switch-science.com/catalog/3792/) | 給電用 （必要に応じて適切な長さのUSBケーブルを購入してください） |
-|  5  | ハウジング | 1 | [データ](./data/watering_unit_housing.stl) | 3Dプリンタを使って出力してください （身の回りにある素材などでご自身で制作してもOKです） |
+※ ハウジングは3Dプリンターで出力してください。
+データはこちらです
 
-★ 参考価格（総額） : 約4,000円
+https://github.com/panasonic-corporation/doingio-watering-unit/blob/main/data/watering_unit_housing.stl
 
 
 ### 2 配線 / 組み立て
