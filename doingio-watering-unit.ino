@@ -55,7 +55,7 @@ void loop() {
         if (set_value == 6) {
             M5.dis.drawpix(4 + 5 * i, 0xffffff);
         } else if (i < set_value) {
-            M5.dis.drawpix(4 + 5 * i, 0xf00000);
+            M5.dis.drawpix(4 + 5 * i, 0x00f000);
         } else {
             M5.dis.drawpix(4 + 5 * i, 0x000000);
         }
